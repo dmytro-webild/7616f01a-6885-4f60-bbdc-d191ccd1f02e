@@ -17,8 +17,8 @@ export default function HomePage() {
             textAnimation="fade"
             videoSrc="https://storage.googleapis.com/webild/default/templates/marbella/hero/hero.mp4"
             tag="Le Cercle Premium Real Estate"
-            title="Live Where the Peaks Touch the Sky"
-            description="Exclusive alpine chalets and luxury apartments in the Swiss Alps. Your mountain retreat, delivered turnkey."
+            title="Refined Lakeside Living"
+            description="Exclusive lakeside villas and luxury apartments in Geneva and Zurich. Your sophisticated Swiss retreat, delivered turnkey."
             primaryButton={{ text: "View Properties", href: "#properties" }}
             secondaryButton={{ text: "Book a Tour", href: "#contact" }}
             bottomText="A premium real estate brand designed for those seeking a refined way of living in the Swiss Alps"
