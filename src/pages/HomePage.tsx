@@ -17,18 +17,18 @@ export default function HomePage() {
             textAnimation="fade"
             videoSrc="https://storage.googleapis.com/webild/default/templates/marbella/hero/hero.mp4"
             tag="Le Cercle Premium Real Estate"
-            title="Live Where the Sun Meets the Sea"
-            description="Exclusive beachfront villas and luxury apartments on the Costa del Sol. Your Mediterranean dream, delivered turnkey."
+            title="Live Where the Peaks Touch the Sky"
+            description="Exclusive alpine chalets and luxury apartments in the Swiss Alps. Your mountain retreat, delivered turnkey."
             primaryButton={{ text: "View Properties", href: "#properties" }}
             secondaryButton={{ text: "Book a Tour", href: "#contact" }}
-            bottomText="A premium real estate brand designed for those seeking a refined way of living on the Costa del Sol"
+            bottomText="A premium real estate brand designed for those seeking a refined way of living in the Swiss Alps"
           />
         </div>
 
         <div id="about" data-section="about">
           <AboutTextFill
             textAnimation="fade"
-            title="For those who travel like it's an art form."
+            title="For those who appreciate the art of alpine living."
             imageSrc="https://storage.googleapis.com/webild/default/templates/marbella/about/statement.webp"
           />
         </div>
