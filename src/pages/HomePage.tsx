@@ -16,7 +16,7 @@ export default function HomePage() {
           <HeroVideoScroll
             textAnimation="fade"
             videoSrc="https://storage.googleapis.com/webild/default/templates/marbella/hero/hero.mp4"
-            tag="Le Cercle Premium Real Estate"
+            tag="Premium Real Estate"
             title="Refined Lakeside Living"
             description="Exclusive lakeside villas and luxury apartments in Geneva and Zurich. Your sophisticated Swiss retreat, delivered turnkey."
             primaryButton={{ text: "View Properties", href: "#properties" }}
