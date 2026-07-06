@@ -28,7 +28,7 @@ export default function HomePage() {
         <div id="about" data-section="about">
           <AboutTextFill
             textAnimation="fade"
-            title="For those who appreciate the art of alpine living."
+            title="For those who appreciate the art of switzerland living."
             imageSrc="https://storage.googleapis.com/webild/default/templates/marbella/about/statement.webp"
           />
         </div>
