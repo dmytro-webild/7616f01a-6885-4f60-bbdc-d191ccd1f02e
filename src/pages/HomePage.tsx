@@ -21,7 +21,7 @@ export default function HomePage() {
             description="Exclusive lakeside villas and luxury apartments in Geneva and Zurich. Your sophisticated Swiss retreat, delivered turnkey."
             primaryButton={{ text: "View Properties", href: "#properties" }}
             secondaryButton={{ text: "Book a Tour", href: "#contact" }}
-            bottomText="A premium real estate brand designed for those seeking a refined way of living in the Swiss Alps"
+            bottomText="A premium real estate brand designed for those seeking a refined way of living in the Switzerland"
           />
         </div>
 
